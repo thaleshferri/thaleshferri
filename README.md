@@ -1,8 +1,6 @@
 # thaleshferri
 <h1 align="center">Hi 👋, I'm Thales</h1>
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thaleshferri" alt="thaleshferri" /></a> </p>
+<h3 align="center">A fullstack developer student from Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
